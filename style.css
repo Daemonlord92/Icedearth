@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Metal Mania', Arial, Helvetica, sans-serif;
+}
+
+#ablumtitle {
+    font-family: 'Metal Mania', Arial, Helvetica, sans-serif;
+}
+
+html {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+#EJM {
+    color: grey;
+    border: 3px solid red;
+}
+
+body {
+    background-image: url(img/2687.png);
+    color: rgb(40, 21, 163);
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#IE {
+    background-image: url(img/Iced_Earth_1990.jpeg)
+}
+
+#NOTS {
+    background-image: url(img/Night_of_the_Stormrider_cover.jpg)
+}
