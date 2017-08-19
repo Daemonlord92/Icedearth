@@ -6,6 +6,10 @@ h1,
 
 .ablumtitle {}
 
+.container {
+    display: flex;
+}
+
 ul {
     list-style: none;
 }
@@ -23,9 +27,13 @@ body {
 #IE {
     background-image: url(img/Iced_Earth_1990.jpeg);
     color: darkred;
+    width: 20%;
+    padding: 10px;
 }
 
 #NOTS {
     background-image: url(img/Night_of_the_Stormrider_cover.jpg);
     color: darkred;
+    width: 20%;
+    padding: 10px;
 }
