@@ -1,6 +1,6 @@
 h1,
 .ablumtitle {
-    font-family: 'Metal Mania', Arial, Helvetica, sans-serif;
+    font-family: 'Metal Mania';
     font-size: 30px;
 }
 
@@ -47,5 +47,54 @@ body {
 
 #DS {
     background-image: url();
-    width: 20 %;
+    width: 20%;
+    padding: 10px;
+}
+
+#SWTWC {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#HS {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#GB {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#FASW {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#COMSW {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#dystopia {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#POB {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
+}
+
+#incorruptible {
+    background-image: url();
+    width: 20%;
+    padding: 10px;
 }
