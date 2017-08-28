@@ -9,6 +9,12 @@ h1,
 .container {
     display: flex;
     flex-wrap: flex-end;
+    padding: 30px;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    column-count: 3;
 }
 
 ul {
@@ -26,7 +32,7 @@ body {
 }
 
 #IE {
-    background-image: url(img/Iced_Earth_1990.jpeg);
+    background-image: url(img/iced_earth.jpg);
     color: darkred;
     width: 20%;
     padding: 10px;
@@ -46,7 +52,7 @@ body {
 }
 
 #DS {
-    background-image: url();
+    background-image: url(img/the_dark_sage.jpg);
     width: 20%;
     padding: 10px;
 }
